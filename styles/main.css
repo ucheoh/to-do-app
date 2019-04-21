@@ -41,3 +41,12 @@ body {
     font-weight: 400;
     padding-left: 16px; 
 }
+
+.mdl-button mdl-js-button mdl-button--raised mdl-button--colored {
+    margin-left: 10px;
+}
+
+.delBtnStyle {
+    margin-left: 5px; 
+
+}
